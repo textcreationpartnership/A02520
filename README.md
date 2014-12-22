@@ -35,70 +35,76 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Christian moderation In two books. By Jos: Exon.Hall, Joseph, 1574-1656.1640Approx. 288 KB of XML-en
+TO ALL CHRISTIAN PEOPLE WHERESOEVER: But especially to those of this WESTERNE DIOCESE: AND THEREIN T
+1. THE CONTENTS.
+REcensui dissertationem hanc de Moderatione Christiana, duabus partibus absolutam, quarum altera de 
 #####Body#####
 
-1. §. 1. Of the use and necessity of Moderation, in generall.
+1. THE FIRST BOOK. Of Moderation in matter of Practice.
 
-1. §. II. Practicall moderation in matter of the palate: And therein, first of the excesse: and then, of the other extremity in defect.
+    _ §. 1. Of the use and necessity of Moderation, in generall.
 
-1. §. III. Of some extremities in other vsages of the body.
+    _ §. II. Practicall moderation in matter of the palate: And therein, first of the excesse: and then, of the other extremity in defect.
 
-1. §. IV. Of the extreames in the cases of lust.
+    _ §. III. Of some extremities in other vsages of the body.
 
-1. §. V. The liberty that God hath given us in the use of his creatures.
+    _ §. IV. Of the extreames in the cases of lust.
 
-1. §. VI. Together with our liberty, the just bounds of our moderation, in the liberall use of Gods creatures: and therein our limitation in respects to God.
+    _ §. V. The liberty that God hath given us in the use of his creatures.
 
-1. §. VII. The limitation of our liberty, in respect of the pleasures themselves, first for the kinde, then for the quantity, and quality of them.
+    _ §. VI. Together with our liberty, the just bounds of our moderation, in the liberall use of Gods creatures: and therein our limitation in respects to God.
 
-1. §. VIII. The limitation, and moderation of the pleasure of conjugall society.
+    _ §. VII. The limitation of our liberty, in respect of the pleasures themselves, first for the kinde, then for the quantity, and quality of them.
 
-1. §. IX. Of the limitation of our pleasures in the manner of using them.
+    _ §. VIII. The limitation, and moderation of the pleasure of conjugall society.
 
-1. §. X. Motives to Moderation in the use of all our pleasures.
+    _ §. IX. Of the limitation of our pleasures in the manner of using them.
 
-1. §. XI. Of the mo•eration of our desires in matter of wealth and honour, &c.
+    _ §. X. Motives to Moderation in the use of all our pleasures.
 
-1. §. XII. The moderation of our passions: and therein first of our sorrow.
+    _ §. XI. Of the mo•eration of our desires in matter of wealth and honour, &c.
 
-1. §. XIII. Of spirituall sorrow and the moderation thereof.
+    _ §. XII. The moderation of our passions: and therein first of our sorrow.
 
-1. §. XIV. Of the moderation of the Passion of Feare.
+    _ §. XIII. Of spirituall sorrow and the moderation thereof.
 
-1. §. XV. Of the moderation of the passion of anger.
+    _ §. XIV. Of the moderation of the Passion of Feare.
 
-1. §. I. Of the danger of immoderation in matter of Iudgement, and of the remedy in generall.
+    _ §. XV. Of the moderation of the passion of anger.
 
-1. §. II. Luke-warmenesse to be avoyded in Religion.
+1. The second Booke. Of Moderation in matter of Iudgement.
 
-1. §. III. Zeale required in the matters of GOD; but to bee tempered with discretion and charity.
+    _ §. I. Of the danger of immoderation in matter of Iudgement, and of the remedy in generall.
 
-1. §. IIII. Rules for Moderation in Iudgement.
+    _ §. II. Luke-warmenesse to be avoyded in Religion.
 
-1. §. V. The second Rule for Moderation,
+    _ §. III. Zeale required in the matters of GOD; but to bee tempered with discretion and charity.
 
-1. §. VI. The third rule of Moderation, viz. The avoydance of curiosity.
+    _ §. IIII. Rules for Moderation in Iudgement.
 
-1. §. VII. The fourth rule of Moderation; to rest in those fundamentall truthes which are revealed clearely in the Scriptures.
+    _ §. V. The second Rule for Moderation,
 
-1. §. VIII: The fifth rule of moderation, To be remisse and facile in unimporting verities, both in our opinion and censure.
+    _ §. VI. The third rule of Moderation, viz. The avoydance of curiosity.
 
-1. §. IX. Remissenesse in matter of Censure.
+    _ §. VII. The fourth rule of Moderation; to rest in those fundamentall truthes which are revealed clearely in the Scriptures.
 
-1. §. X. The sixt rule of Moderation: Not to beleeve an opposite, in the state of a Tenet, or person.
+    _ §. VIII: The fifth rule of moderation, To be remisse and facile in unimporting verities, both in our opinion and censure.
 
-1. §. XI. The seventh rule of Moderation, Not to judge of an adversaries opinion by the inferences pretended to follow upon it.
+    _ §. IX. Remissenesse in matter of Censure.
 
-1. §. XII. The eighth rule of Moderation, To keepe opinions within their owne bounds, not imputing private mens conceits to whole Churches.
+    _ §. X. The sixt rule of Moderation: Not to beleeve an opposite, in the state of a Tenet, or person.
 
-1. §. XIII. The ninth rule of Moderation: The actions and manners of men must not regulate our judgements concerning the cause.
+    _ §. XI. The seventh rule of Moderation, Not to judge of an adversaries opinion by the inferences pretended to follow upon it.
 
-1. §. XIIII. The tenth rule of Moderation: That wee must draw as neere as wee safely may, to Christian adversaries, in cases of lesser differences.
+    _ §. XII. The eighth rule of Moderation, To keepe opinions within their owne bounds, not imputing private mens conceits to whole Churches.
 
-1. §. XV. The eleventh rule of Moderation; To refrayne from all rayling termes, and spightfull provocations in differences of Religion.
+    _ §. XIII. The ninth rule of Moderation: The actions and manners of men must not regulate our judgements concerning the cause.
 
-1. §. XVI. The twelfth rule of Moderation: That how-ever our judgements differ, wee should compose our affections towards Vnitie and Peace.
+    _ §. XIIII. The tenth rule of Moderation: That wee must draw as neere as wee safely may, to Christian adversaries, in cases of lesser differences.
+
+    _ §. XV. The eleventh rule of Moderation; To refrayne from all rayling termes, and spightfull provocations in differences of Religion.
+
+    _ §. XVI. The twelfth rule of Moderation: That how-ever our judgements differ, wee should compose our affections towards Vnitie and Peace.
 
 **Types of content**
 
